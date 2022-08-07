@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning web programming
 - 🔭 I’m currently working on Bandung
 - ⚡ Fun fact: i love play game and healing
+- 📫 How to reach me at my instagram @buday20_
 
 <!--
 **budayyy/budayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
