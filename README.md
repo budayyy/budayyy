@@ -1,5 +1,6 @@
-### Hi there 👋 I'm budayyy - Anthusiast Web Developer
-- Cirebon , Indonesia ~
+### Hi there 👋 I'm budayyy 
+##Anthusiast Web Developer
+#Cirebon , Indonesia ~
 
 - 🌱 I’m currently learning web programming
 - 🔭 I’m currently working on Bandung
