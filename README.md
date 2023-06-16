@@ -3,7 +3,6 @@ Anthusiast Web Developer
 - Cirebon , Indonesia ~
 
 - 🌱 I’m currently learning web programming
-- 🔭 I’m currently working on Bandung
 - ⚡ Fun fact: i love play game and healing
 - 📫 How to reach me at my instagram <a href="https://www.instagram.com/buday20_/">@buday20_</a>
 
