@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm budayyy 
-Anthusiast Web Developer 
+Web Developer 
 - Cirebon , Indonesia ~
 
 - 🌱 I’m currently learning web programming
